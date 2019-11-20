@@ -1,0 +1,12 @@
+C:\Users\PILKOM-005\AppData\Local\Temporary Projects\Koneksi Database\bin\Debug\Koneksi Database.exe.config
+D:\Dimas Maulana Muhammad\Koneksi Database\Koneksi Database\bin\Debug\Koneksi Database.exe.config
+D:\Dimas Maulana Muhammad\Koneksi Database\Koneksi Database\bin\Debug\Koneksi Database.exe
+D:\Dimas Maulana Muhammad\Koneksi Database\Koneksi Database\bin\Debug\Koneksi Database.pdb
+D:\Dimas Maulana Muhammad\Koneksi Database\Koneksi Database\bin\Debug\Koneksi Database.xml
+D:\Dimas Maulana Muhammad\Koneksi Database\Koneksi Database\obj\Debug\Koneksi Database.vbprojResolveAssemblyReference.cache
+D:\Dimas Maulana Muhammad\Koneksi Database\Koneksi Database\obj\Debug\Koneksi_Database.Form1.resources
+D:\Dimas Maulana Muhammad\Koneksi Database\Koneksi Database\obj\Debug\Koneksi_Database.Resources.resources
+D:\Dimas Maulana Muhammad\Koneksi Database\Koneksi Database\obj\Debug\Koneksi Database.vbproj.GenerateResource.Cache
+D:\Dimas Maulana Muhammad\Koneksi Database\Koneksi Database\obj\Debug\Koneksi Database.exe
+D:\Dimas Maulana Muhammad\Koneksi Database\Koneksi Database\obj\Debug\Koneksi Database.xml
+D:\Dimas Maulana Muhammad\Koneksi Database\Koneksi Database\obj\Debug\Koneksi Database.pdb
